@@ -69,3 +69,9 @@ Combination of `cloudfront:setup` and `cloudfront:build:deploy` commands with or
 ### `serverless:remove`
 
 Remove an entire stack configured in `serverless.yml` via CloudFormation.
+
+### Task 2
+
+S3-website link (shows 403 Access Denied error): http://my-aws-course-bucket-1.s3-website-eu-west-1.amazonaws.com/
+
+CloudFront URL: d34v1k5ifps282.cloudfront.net
