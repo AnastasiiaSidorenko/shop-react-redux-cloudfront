@@ -74,4 +74,4 @@ Remove an entire stack configured in `serverless.yml` via CloudFormation.
 
 S3-website link (shows 403 Access Denied error): http://my-aws-course-bucket-1.s3-website-eu-west-1.amazonaws.com/
 
-CloudFront URL: d34v1k5ifps282.cloudfront.net
+CloudFront URL: https://d34v1k5ifps282.cloudfront.net/
